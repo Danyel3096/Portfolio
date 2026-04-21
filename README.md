@@ -8,6 +8,7 @@
 
 | Proyecto | Descripción | Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **Business Intelligence Operations** | Dashboard interactivo para optimización de ventas, RRHH y rendimiento académico. | Power BI, DAX, ETL | [Ver Proyecto ↗️](https://github.com/Danyel3096/Business-Intelligence-Operations-PowerBi) |
 | **Advanced SQL & Optimization** | Análisis de series temporales, Window Functions y optimización de costos en BigQuery. | SQL, BigQuery, Python | [Ver Proyecto ↗️](https://github.com/Danyel3096/Advanced-SQL-Optimization-BigQuery) |
 | **Big Data Analysis with SQL** | Procesamiento de datasets masivos (Chicago Crime) y estructuración de consultas relacionales. | SQL, BigQuery, Pandas | [Ver Proyecto ↗️](https://github.com/Danyel3096/SQL-Data-Analysis-BigQuery) |
 | **Google Data Analytics Capstone** | *(En progreso)* Proyecto final de la certificación profesional de Google. | Tableau, SQL, R | [Próximamente](#) |
